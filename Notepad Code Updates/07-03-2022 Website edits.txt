@@ -1,0 +1,288 @@
+::: Top Comment Delete :::
+Delete the Top Comment and replace it with your updated comment
+<!-- This was last updated on 7/3/2022 @2105 by Canaan Collins -->
+
+::: Title Switchout :::
+Canaan Collins | Freelance Web Developer
+
+::: Meta Content Change :::
+Determined by what the page is
+
+::: Contact Addition, Blog Deference :::
+Change Blog to Contact, along with the href change.
+
+::: Blog Post Delete :::
+Delete "Blog Post" Section under Pages
+
+::: Portfolio and Product Single Delete :::
+Delete Portfolio and Product Single's under Pages
+
+::: Cart and Utility Page Comment-Out :::
+Comment out the whole cart and the utility pages
+
+::: Facebook Change :::
+https://www.facebook.com/profile.php?id=100082730747884
+
+::: Twitter Change :::
+https://twitter.com/DevCanaan
+
+::: Instagram Change :::
+https://www.instagram.com/devcanaan/
+
+::: LinkedIn Change :::
+https://www.linkedin.com/in/canaan-collins-1b8091244/
+
+::: Github Change :::
+https://github.com/DevCanaan1
+
+::: Email Change :::
+canaan@canaancollins.dev
+
+::: Phone Number Change :::
+(601)921-9140
+
+::: Footer Copyright Switchout :::
+Created by Canaan Collins
+
+
+
+
+
+::: Blog Removal:::
+Once finished, delete all blog links to the blog page
+- also delete the blog selection at the bottom of the page
+- also delete the blog selection in the hamburger menu
+
+::: Checkout Removal:::
+Once finished, delete all blog links to the checkout page
+
+
+
+
+
+
+
+07/03/2022
+::: Top Comment Delete :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Title Switchout :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Meta Content Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Contact Addition, Blog Deference :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Blog Post Delete :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Portfolio and Product Single Delete :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Cart and Utility Page Comment-Out :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Facebook Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Twitter Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Instagram Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: LinkedIn Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Github Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Email Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Phone Number Change :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+::: Footer Copyright Switchout :::
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
+
+--- Once Completed, Update Time at the top of the Page ---
+401.html
+404.html
+about.html
+contact.html
+detail-product-template.html
+hire-me.html
+index.html
+order-confirmation.html
+paypal-checkout.html
+portfolio-detail.html
+portfolio.html
+search.html
